@@ -1,7 +1,8 @@
 ## Collaborator
 
-  Muhammad Usman
+  Muhammad Usman <br>
   [Github Profile](https://github.com/UsmanFang)
+##
   
 
 - ### EXE File
