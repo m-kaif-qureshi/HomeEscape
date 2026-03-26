@@ -8,7 +8,7 @@
 
 ## Collaborator
 
-- MUHAMMAD USAMAN <br>
+- MUHAMMAD USMAN <br>
 - [Github Profile](https://github.com/UsmanFang)
 ##
 
