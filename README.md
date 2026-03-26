@@ -1,5 +1,5 @@
 - ### EXE File
-  The ``EXE file`` is located in HomeEscape.zip — [Download Zip](https://github.com/UsmanFang/HomeEscape/raw/refs/heads/main/HomeEscape.zip](https://github.com/m-kaif-qureshi/HomeEscape/raw/refs/heads/main/HomeEscape.zip)
+  The ``EXE file`` is located in HomeEscape.zip — [Download Zip][(https://github.com/UsmanFang/HomeEscape/raw/refs/heads/main/HomeEscape.zip](https://github.com/m-kaif-qureshi/HomeEscape/raw/refs/heads/main/HomeEscape.zip)]
 
       There is no need to install JAVA in system for EXE file.
 - ### Source Code
