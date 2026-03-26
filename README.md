@@ -1,10 +1,3 @@
-## Collaborator
-
-- Muhammad Usman <br>
-- [Github Profile](https://github.com/UsmanFang)
-##
-  
-
 - ### EXE File
   The ``EXE file`` is located in HomeEscape.zip — [Download Zip](https://github.com/m-kaif-qureshi/HomeEscape/raw/refs/heads/main/HomeEscape.zip)
 
@@ -12,6 +5,11 @@
 - ### Source Code
   [Download Source Code](https://github.com/m-kaif-qureshi/HomeEscape/blob/main/HomeEscape.java)
 
+## Collaborator
+
+- Muhammad Usman <br>
+- [Github Profile](https://github.com/UsmanFang)
+##
 
 # 🏠 Home Escape Adventure – A Java Console Game
 
