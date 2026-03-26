@@ -6,7 +6,7 @@
   [Download Source Code](https://github.com/m-kaif-qureshi/HomeEscape/blob/main/HomeEscape.java) <br><br>
 
 
-## Collaborator
+## Collaborators
 
 - MUHAMMAD USMAN           [Github Profile](https://github.com/UsmanFang)<br>
 - MUHAMMAD KAIF QURESHI    [Github Profile](https://github.com/m-kaif-qureshi)<br>
