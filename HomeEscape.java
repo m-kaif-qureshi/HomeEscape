@@ -220,10 +220,10 @@ public class HomeEscape {
             }
 
             // Replay
-            System.out.println();
-            System.out.println("╔════════════════════════════════════════════════════════════════════╗");
-            System.out.println("║ Play again? (y/n):                                                 ║");
+            System.out.println("\n");
+            System.out.print(" Play again? (y/n): ");
             char replayChoice = sc.next().charAt(0);
+            System.out.println();
             playAgain = (replayChoice == 'y' || replayChoice == 'Y');
         }
 
@@ -262,7 +262,7 @@ public class HomeEscape {
                     System.out.println();
                     System.out.println("╔════════════════════════════════════════════════════════════════════╗");
                     System.out.println("║                     You find a folded note                         ║");
-                    System.out.println("║                      \"First digit is " + digit1 + "\"             ║");
+                    System.out.println("║                         \"First digit is " + digit1 + "\"                         ║");
                     System.out.println("╚════════════════════════════════════════════════════════════════════╝");
                     clue1Found = true;
                 } else {
@@ -343,7 +343,7 @@ public class HomeEscape {
             System.out.println("╠════════════════════════════════════════════════════════════════════╣");
             System.out.println("║ Shelves of books. A small lockbox placed                           ║");
             System.out.println("║ on the desk.                                                       ║");
-            System.out.println("║++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++║");
+            System.out.println("║════════════════════════════════════════════════════════════════════║");
             System.out.println("║ Options:                                                           ║");
             System.out.println("║  [1] Check out the bookshelf                                       ║");
             System.out.println("║  [2] Try the lockbox (riddle)                                      ║");
@@ -373,7 +373,7 @@ public class HomeEscape {
                     System.out.println();
                     System.out.println("╔════════════════════════════════════════════════════════════════════╗");
                     System.out.println("║                            Riddle:                                 ║");
-                    System.out.println("║  \"What has many keys but can't open a single lock?\"               ║");
+                    System.out.println("║  \"What has many keys but can't open a single lock?\"                ║");
                     System.out.println("╚════════════════════════════════════════════════════════════════════╝");
                     System.out.print(" Your answer: ");
                     sc.nextLine(); // consume leftover newline
@@ -513,9 +513,9 @@ public class HomeEscape {
         System.out.println("║                                STATUS                              ║");
         System.out.println("╚════════════════════════════════════════════════════════════════════╝");
         System.out.println("╔════════════════════════════════════════════════════════════════════╗");
-        System.out.println("║  Clue 1 (first digit):  " + (clue1Found ? digit1 : "?" +"                                          ║"));
-        System.out.println("║  Clue 2 (second digit):  " + (clue2Found ? digit2 : "?" +"                                         ║"));
-        System.out.println("║  Physical key:           " + (hasKey ? "Found" : "Not found")+"                                 ║");
+        System.out.println("║  Clue 1 (first digit):  " + (clue1Found ? digit1 : "?") +"                                          ║");
+        System.out.println("║  Clue 2 (second digit):  " + (clue2Found ? digit2 : "?") +"                                         ║");
+        System.out.println("║  Physical key:           " + (hasKey ? "Found    " : "Not found")+"                                 ║");
         System.out.println("║  Attempts left:          " + attemptsLeft+"                                         ║");
         System.out.println("╚════════════════════════════════════════════════════════════════════╝");
     }
