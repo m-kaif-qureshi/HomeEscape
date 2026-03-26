@@ -1,7 +1,7 @@
 ## Collaborator
 
-  Muhammad Usman <br>
-  [Github Profile](https://github.com/UsmanFang)
+- Muhammad Usman <br>
+- [Github Profile](https://github.com/UsmanFang)
 ##
   
 
