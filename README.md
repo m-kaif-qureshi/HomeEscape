@@ -26,7 +26,7 @@ Home Escape Adventure is a console-based puzzle game built in Java. The player i
 
    **ASCII Art Interface:** Clean, formatted console UI with visual borders.
    
-# 🛠️ Tech Stack
+# 🛠️ Tech Stack 🛠️ 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 Core: Java (Scanner, Random, Thread.sleep for effects)
